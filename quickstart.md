@@ -16,7 +16,7 @@
 ### 软件需求
 
 - Android SDK
-- Unity 2017 3.x / 2017 4.x / 2018 2.x
+- Unity 2017.4.17 f1 / Unity 2018.3.x （其他版本可能会遇到头部旋转不正确的情况，请自己测试）
 - [Vysor](https://www.vysor.io) (**可选项**， 用于远程操作Android设备，提升开发效率)
 
 
@@ -118,3 +118,4 @@ Bench Marker的使用示例说明场景。
 ![](https://ximmerse-1253940012.cos.ap-guangzhou.myqcloud.com/slide-in-sdk/build-project.png)
 
 安装apk到手机上，将手机插入头显并且连接，即可开始完整的测试Marker的追踪功能了。
+
